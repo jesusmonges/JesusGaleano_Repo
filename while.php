@@ -8,7 +8,7 @@
     $i = 1;
     $fin = rand(1,100);
         while($i <= $fin){
-            echo 'Valor del indice: ';
+            echo 'Valor del indice a: ';
             echo $i .'<br>';
             $i++;
         }
